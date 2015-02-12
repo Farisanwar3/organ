@@ -1,0 +1,4 @@
+lamborghini - Copy (2) = 0 0 321 165
+lamborghini - Copy (3) = 0 166 321 165
+lamborghini - Copy = 322 0 321 165
+lamborghini = 322 166 321 165

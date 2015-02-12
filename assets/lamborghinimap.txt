@@ -1,0 +1,1 @@
+lamborghini = 0 0 321 165
