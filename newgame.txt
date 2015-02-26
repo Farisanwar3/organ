@@ -1,49 +1,33 @@
-<html>
-	<head>
-		<title>Space Shooter</title>
-		<script type="text/javascript" src="phaser.min.js"></script>
-		<script type="text/javascript" src="game.js"></script>
-		<style type="text/css">
-			body{
-				margin: 0px;
-				padding: 0px;
-			}
-		</style>
-	</head>
-	<body>
-		<div id="game"></div>
-		<p>High Concept: Play as a doctor and be able to collect as many human organs as you possibly can while only being able to donate them to 100 patients. 
-<p>Player Experience Goals: Experience being in a doctor's dream to donate human organs.  Imagine how awesome it would be to give a certain patient an organ and being able to see the patient's tag number.  
+High Concept: Play as a doctor and be able to collect as many human organs as you possibly can while only being able to donate them to 100 patients.  
+Player Experience Goals: Experience being in a doctor's dream to donate human organs.  Imagine how awesome it would be to give a certain patient an organ and being able to see the patient's tag number.  
 After you reach 100 patients, the game is over and reverts to the start screen.  
 When the doctor collects an organ, you get 50 points added to your score
 The same goes for giving the organs to the patients
 The thrill of getting a higher score in each game just keeps getting better.  It was so good that 
 I became somewhat addicted to it.  
-<p>Strategies: move around the screen to pick up as many human organs as you can as they are flying past you.
+Strategies: move around the screen to pick up as many human organs as you can as they are flying past you.
 Keep yourself relaxed as you give each organ to each of the 100 patients.  
-<p>Genre: Side Scroller, Endless Runner
-<p>Game play: point your character, using a mouse, to collect human organs and give them to patients
-<p>Target Audience: this game is for people who are not afraid of human organs.  
+Genre: Side Scroller, Endless Runner
+Game play: point your character, using a mouse, to collect human organs and give them to patients
+Target Audience: this game is for people who are not afraid of human organs.  
 For people over the age of eight. It has simple controls but has advanced mechanics. 
-<p>Prototype: This game is a version of space shooter that someone else had made.
+Prototype: This game is a version of space shooter that someone else had made.
 Instead of using up, down, left, and right arrows to play 
 I wanted to make the game so that bullets never had to be fired.
 I wanted to do a minimalistic design that involved moving the character to pick up human organs and give 
 them to patients who are floating around.  
-<p>Setting/Premise: takes place in an Umbrella Corporation facility that deals with human organs for cash.
-<p>Story: a doctor has fallen into a dream. This dream involves grabbing as many organs as possible and delivering them to only a hundred patients because the dream lasts for about several minutes.  
+Setting/Premise: takes place in an Umbrella Corporation facility that deals with human organs for cash.
+Story: a doctor has fallen into a dream. This dream involves grabbing as many organs as possible and delivering them to only a hundred patients because the dream lasts for about several minutes.  
 Also, the hospital can perform organ transplants on only a hundred of these patients.  The doctor uses his mind to pick up organs using a modified version of Earth's gravity.  His dream takes place in an Umbrella Corporation facility that deals with human organs for cash.  People trade in human organs for millions of dollars.  The doctor decides to put these organs to good use and give them to the patients in need.  
 The gravity in his dream is 6.4 m/s.  That is much lower than Earth's and explains why they patients are floating around.  This game is a parody of the movie Inception because you are in someone else's dream and trying to manipulate it yourself.  
 Prototype goal: Involves moving a character across the screen to collect human organs and donate them to 
 patients who are flying by.  
-<p>Prototype Assets: From Google images, modified in Piskel. Used the Inception background and made my rules
+Prototype Assets: From Google images, modified in Piskel. Used the Inception background and made my rules
 in the background.
-<p>Prototype Closest Other Game: Borrowed from space shooter and modified it.
+Prototype Closest Other Game: Borrowed from space shooter and modified it.
 This game is a version of space shooter that someone else had made.
 Instead of using up, down, left, and right arrows to play 
 I wanted to make the game so that bullets never had to be fired.
 I wanted to do a minimalistic design that involved moving the character to pick up human organs and give 
 them to patients who are floating around.  
 http://iamsuyash.com/Space-Shooter/ here is the link to the game that I had borrowed
-	</body>
-</html>
